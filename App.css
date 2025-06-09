@@ -1,0 +1,55 @@
+.App {
+ text-align: justify;
+  background-color: rgb(130, 77, 166);
+  border: 6px black dotted;
+  border-radius: 10px;
+  margin: 10px 10px;
+  padding: 20px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(229, 225, 225)
+}
+img{
+  width: 25%;
+  height: auto;
+  float: right;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.my-table{
+  margin: 5px 5px;
+  padding: 5px 5px;
+  border: 3px black dashed;
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+
+}
+.my-table th,.my-table td{
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+
+}
+#level{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px 20px;
+  background-color: rgb(176, 173, 169);
+  cursor: pointer;
+  border: solid 1px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.like h1{
+ font-family: cursive;
+ 
+ 
+}
+.like label{
+  margin: 20px ;
+  padding: 10px;
+  font-family: cursive;
+}
